@@ -1,11 +1,11 @@
 # Random Number Generator & Guessing Game using JAVA
 
-Welcome to the Random Number Generator game — where Java meets mystery, and numbers hide in plain sight! 🤖✨
+Welcome to the Random Number Generator game — where Java meets mystery, and numbers hide in plain sight! 🤖
 
 Think you're good at guessing? Let's put that to the test.
 
 ##  What is it?
-A console-based number guessing game made in Java for beginners. The computer generates a number between 1 and 100, and it's your job to guess it! With helpful (and dramatic) hints, of course. 😉
+A console-based number guessing game made in Java for beginners. The computer generates a number between 1 and 100, and it's your job to guess it! With helpful (and dramatic) hints, of course. 
 
 "Oh, you're so far away!"
 
@@ -20,11 +20,11 @@ You guess the number in the console.
 
 #### The program gives you hints:
 
-Way off? It tells you you’re so far away! 😢
+Way off? It tells you you’re so far away! 
 
-Close enough? It cheers you on with motivational hints 💪
+Close enough? It cheers you on with motivational hints 
 
-Exact match? Victory is yours! 🎉
+Exact match? Victory is yours! 
 
 
 ## Take a look at the code !
