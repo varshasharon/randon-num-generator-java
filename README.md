@@ -27,7 +27,7 @@ Close enough? It cheers you on with motivational hints 💪
 Exact match? Victory is yours! 🎉
 
 
-# Take a look at the code !
+## Take a look at the code !
 ```
 import java.util.*;
 
@@ -80,3 +80,18 @@ public class Main{
 }
 
 ```
+
+## Output Sneak Peak :
+
+![image](https://github.com/user-attachments/assets/1f4cc1a7-8728-4a31-a759-c705dbee5727)
+
+
+## Takeaways:
+
+Using the Random class in Java
+
+Loops and conditional logic
+
+How to give meaningful feedback to users
+
+And a bit of fun in programming 😉
