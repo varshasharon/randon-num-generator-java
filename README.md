@@ -18,7 +18,7 @@ A random number between 1 and 100 is generated using java.util.Random.
 
 You guess the number in the console.
 
-#### The program gives you hints:
+### The program gives you hints:
 
 Way off? It tells you you’re so far away! 
 
